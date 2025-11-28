@@ -1,0 +1,7 @@
+{
+  "name": "Dongsan Park - Online CV",
+  "description": "Professional Online CV and Portfolio for Dongsan Park, a Senior Technical Leader with 20 years of experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
